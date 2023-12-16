@@ -2,7 +2,7 @@
 
 ExcepitionMidLib is a .NET Core class library designed to handle exceptions in a structured and efficient manner.And ExcepitionMidLib library also for handling global exceptions and maintaining global response. This library is used to generate standardized responses for successful and error scenarios.
 
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
